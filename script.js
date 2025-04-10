@@ -41,9 +41,6 @@ function startChat() {
                 title: 'Germany Application',
                 uploadable: false,
               }, 
-              /**
-              * Controls whether to display the floating ball at the bottom right corner of the page.
-              */
               asstBtn: { 
                 isNeed: true, 
               }, 
