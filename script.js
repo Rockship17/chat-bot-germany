@@ -34,7 +34,7 @@ function startChat() {
             }, 
             ui: { 
               base: { 
-                icon: 'https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/375870137_805051611316382_3794892702467179472_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dWql-ZFLM0cQ7kNvwGk1Aup&_nc_oc=AdkOqc3FgrjoegRYXFNPSP43Y8cJXGz16uVezV60ewzbdDeLyX1evFZP9F56hWh4Zt8-wMPmEe9X5Hg0nZh0vRV0&_nc_zt=23&_nc_ht=scontent.fsgn5-14.fna&_nc_gid=Nv029Z4dVXxnRxCoCeYBSw&oh=00_AYFGwuW5qK8WilpcIX6EBq1Meuo_xDvcfh3A0AP97GeCWA&oe=67F52ACB', 
+                icon: 'https://lf16-alice-tos-sign.oceanapi-i18n.com/obj/ocean-cloud-tos-sg/FileBizType.BIZ_BOT_ICON/7438441760610010113_1744275667612345913.jpeg?lk3s=68e6b6b5&x-expires=1744279267&x-signature=wVa5cwZkWc%2FlbaE%2BLxf%2F0JtnLM8%3D', 
                 lang: 'vi',
               },
               chatBot: {
