@@ -34,7 +34,7 @@ function startChat() {
             }, 
             ui: { 
               base: { 
-                icon: 'https://lf16-alice-tos-sign.oceanapi-i18n.com/obj/ocean-cloud-tos-sg/FileBizType.BIZ_BOT_ICON/7438441760610010113_1744275667612345913.jpeg?lk3s=68e6b6b5&x-expires=1744279267&x-signature=wVa5cwZkWc%2FlbaE%2BLxf%2F0JtnLM8%3D', 
+                icon: 'https://lf16-alice-tos-sign.oceanapi-i18n.com/obj/ocean-cloud-tos-sg/FileBizType.BIZ_BOT_ICON/7438441760610010113_1744275667612345913.jpeg?lk3s=50ccb0c5&x-expires=1744962091&x-signature=aGZvNR9muuG8ZvqNt0mRsxlXXsA%3D', 
                 lang: 'vi',
               },
               chatBot: {
@@ -54,4 +54,3 @@ function startChat() {
 
 // Khởi động chat bot ngay khi trang được tải
 window.onload = startChat; 
-
